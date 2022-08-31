@@ -9,10 +9,14 @@ import re
 import sys
 ```
 Download PyInstaller, Windows ready EXE version ![Here](https://github.com/kephalian/Change-case-of-text/blob/main/case_switch.exe)
+
 Python source code Regex version ![Here](https://github.com/kephalian/Change-case-of-text/blob/main/case_switch.exe)
+
 Python pure String version ![Here](https://github.com/kephalian/Change-case-of-text/blob/main/case_switch.py)
 
-Using PyInstaller and build from source using this command, same Batch file is ![Here]()
+Using PyInstaller and build from source using this command, same Batch file is ![Here](https://github.com/kephalian/Change-case-of-text/blob/main/new_exe.bat) and PyINstaller SPEC file ![Here](https://github.com/kephalian/Change-case-of-text/blob/main/case_switch.spec) My Icon has to be present
+in current directory for build to be successful Icon is ![Here](https://github.com/kephalian/Change-case-of-text/blob/main/icon1.ico)
+
 ```
 pyinstaller  --clean --onefile --windowed --icon=icon1.ico --upx-dir=C:\upx-3.96-win64 -y case_switch.py
 pause
