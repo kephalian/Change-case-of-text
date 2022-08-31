@@ -28,3 +28,4 @@ in current directory for build to be successful Icon is ![Here](https://github.c
 pyinstaller  --clean --onefile --windowed --icon=icon1.ico --upx-dir=C:\upx-3.96-win64 -y case_switch.py
 pause
 ````
+Suggestions, Comments, Errors are always solicited!
