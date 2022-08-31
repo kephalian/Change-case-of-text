@@ -8,9 +8,9 @@ import pyperclip
 import re
 import sys
 ```
-Download PyInstaller, Windows ready EXE version ![Here]()
-Python source code Regex version ![Here]()
-Python pure String version ![Here]()
+Download PyInstaller, Windows ready EXE version ![Here](https://github.com/kephalian/Change-case-of-text/blob/main/case_switch.exe)
+Python source code Regex version ![Here](https://github.com/kephalian/Change-case-of-text/blob/main/case_switch.exe)
+Python pure String version ![Here](https://github.com/kephalian/Change-case-of-text/blob/main/case_switch.py)
 
 Using PyInstaller and build from source using this command, same Batch file is ![Here]()
 ```
