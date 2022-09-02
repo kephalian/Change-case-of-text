@@ -21,6 +21,8 @@ Python source code Regex version ![Here](https://github.com/kephalian/Change-cas
 
 Python pure String version ![Here](https://github.com/kephalian/Change-case-of-text/blob/main/case_switch.py)
 
+[Jupyter Notebook](https://github.com/kephalian/Change-case-of-text/blob/main/Calander_maker.ipynb)
+
 Using PyInstaller and build from source using this command, same Batch file is ![Here](https://github.com/kephalian/Change-case-of-text/blob/main/new_exe.bat) and PyINstaller SPEC file ![Here](https://github.com/kephalian/Change-case-of-text/blob/main/case_switch.spec) My Icon has to be present
 in current directory for build to be successful Icon is ![Here](https://github.com/kephalian/Change-case-of-text/blob/main/icon1.ico)
 
